@@ -1,0 +1,8 @@
+a=int(input('enter a:')) 
+b=inter(input('enter b:')) 
+C=a>b
+d=a<b
+e=a>=b
+f=a<=b
+h=a! =b
+Print(c, d, e, f) 
